@@ -1,2 +1,2 @@
-# www
-Strona www A1
+# Strona www A1
+
